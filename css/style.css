@@ -6,6 +6,10 @@
     --white: #ffffff;
 }
 
+h1 {
+    font-size:small;
+}
+
 * {
     font-family: 'Poppins', sans-serif;
     margin: 0;
