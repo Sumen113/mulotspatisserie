@@ -7,7 +7,7 @@
 }
 
 h1 {
-    font-size:small;
+    font: size 5px;;
 }
 
 * {
@@ -132,7 +132,7 @@ section {
 }
 
 .slogan h1 {
-    font-size: 7rem;
+    font-size: 4.5rem;
     color: var(--primary-color);
 }
 
@@ -235,7 +235,7 @@ section {
 
 .food-item {
     width: 25%;
-    height: 30rem;
+    height: 20rem;
     padding: 1rem;
 }
 
